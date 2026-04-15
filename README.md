@@ -4,6 +4,7 @@
 ### 1、 文件说明
 `01.shapeit_loter`: Figure 1 数据处理+绘图
 
+
 `02.亲本等位基因的选择模式.ipynb`: Figure 2
 
 `03.可重复性_v3.ipynb`:
